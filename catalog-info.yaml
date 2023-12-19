@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: software-templates-examples
+  annotations:
+    github.com/project-slug: tundakk/software-templates-examples
+spec:
+  type: other
+  lifecycle: unknown
+  owner: testadmindev
